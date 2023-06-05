@@ -1,3 +1,4 @@
+#Ocultar archivos innecesarios
 *.o
 *.exe
 *.err
